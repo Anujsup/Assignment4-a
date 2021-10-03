@@ -64,7 +64,7 @@ function validateForm() {
 
 
 
-    alert(`dsds`);
+    alert(`Name : ${name} , Brand : ${Location} , Color : ${Color} , Size : ${Size}`);
 
 }
 
